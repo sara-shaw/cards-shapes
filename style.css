@@ -1,0 +1,52 @@
+.container {
+  margin-top: 50px;
+}
+
+/************* SAVANNAH *************/
+
+.sav {
+  align-items: center;
+
+  .fa-brands {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding: 5px;
+  }
+}
+
+.savannah {
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+}
+
+.blur {
+  min-height: 300px;
+}
+
+/************* LANDON *************/
+
+/************* JUSTIN *************/
+
+/************* GAIL *************/
+
+.gail {
+  .card-title {
+    color: rgb(255, 87, 241);
+  }
+
+  .fa-brands {
+    color: rgb(255, 87, 241);
+    border: 1px solid rgb(255, 87, 241);
+    border-radius: 50%;
+    padding: 5px;
+  }
+}
+
+/************* FLORENCE *************/
+.flo {
+  .card-title {
+    color: rgb(34, 88, 34);
+  }
+}
